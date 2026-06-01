@@ -1,0 +1,36 @@
+# local state (never shared)
+/backups
+/cache
+/debug
+/downloads
+/file-history
+/history.jsonl
+/paste-cache
+/projects
+/session-env
+/sessions
+/shell-snapshots
+/tasks
+/todos
+/worktrees
+/scheduled_tasks.json
+/scheduled_tasks.lock
+
+# machine-specific
+/settings.local.json
+/settings.json.bak*
+/keybindings.json
+
+# secrets
+/.credentials.json
+/oat-token
+
+# plugins (reinstalled on new machine)
+/plugins/
+
+# misc
+/.last-cleanup
+/.last-update-result.json
+/statsig
+/telemetry
+/usage-data

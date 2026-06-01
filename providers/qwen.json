@@ -1,0 +1,11 @@
+{
+  "env": {
+    "ANTHROPIC_API_KEY": "",
+    "ANTHROPIC_BASE_URL": "https://dashscope-intl.aliyuncs.com/compatible-mode/v1",
+    "ANTHROPIC_MODEL": "qwen-max",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "qwen-plus",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "qwen-max",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "qwen-max",
+    "ANTHROPIC_DEFAULT_MODEL": "qwen-max"
+  }
+}
