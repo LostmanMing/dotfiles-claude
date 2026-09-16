@@ -6,7 +6,7 @@ Personal [Claude Code](https://docs.anthropic.com/en/docs/claude-code) configura
 
 ```bash
 # Clone
-git clone git@github.com:LostmanMing/dotfiles-claude.git ~/dotfiles-claude
+git clone https://github.com/LostmanMing/dotfiles-claude.git ~/dotfiles-claude
 
 # Symlink
 ln -s ~/dotfiles-claude ~/.claude
